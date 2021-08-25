@@ -109,6 +109,4 @@ cd client
 yarn start
 ```
 
-**5.** **🎉 Open your browser and go to `https://localhost:3000`**
-
-## 🤩 Don't forget to give this repo a ⭐ if you like this repo and want to appreciate our efforts
+**5. Open your browser and go to `https://localhost:3000`**
