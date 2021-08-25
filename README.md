@@ -1,12 +1,4 @@
-# Welcome to ShopPoint! ✨
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://shoppingpoint.herokuapp.com/)&nbsp;[![Build passing](https://img.shields.io/badge/Build-Passing-brightgreen.svg?style=flat-square)](https://shoppingpoint.herokuapp.com/)&nbsp;[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://foodeazy.herokuapp.com/)&nbsp;[![License](https://img.shields.io/badge/license-MIT-brightgreen)](https://shoppingpoint.herokuapp.com/)&nbsp;![Made with love in Nepal](https://madewithlove.now.sh/np?heart=true)
-
-**Project Link** - ***https://shoppoint.herokuapp.com/***
-
-![screenshot](image/home.PNG)
-
-## Features and Functionalities 😃
+## Features and Functionalities
 
 **User features**
 
@@ -41,7 +33,7 @@
 - Order details page
 - Mark orders as delivered option
 
-## Tech Stack 💻
+## Tech Stack
 
 - [React.js](https://reactjs.org/)
 - [Node.js](https://nodejs.org/en/)
@@ -51,20 +43,13 @@
 - [React Bootstrap](https://react-bootstrap.github.io/)
 - [Redux](https://redux.js.org/)
 
-## API :man_technologist:
-
-- [PayPal API](https://developer.paypal.com/)
-- [Esewa API](https://developer.esewa.com.np)
-- [Send Grid API](https://sendgrid.com/)
-- [Cloudinary API](https://cloudinary.com/)
-
-## Installation :zap:
+## Installation
 
 **1. Clone this repo by running the following command :-**
 
 ```bash
- git clone https://github.com/SajidAnTechie/ShopPoint
- cd ShopPoint
+ git clone https://github.com/algoSupport/react-commerce.git
+ cd react-commerce
 ```
 
 **2. Now install all the required packages(frontend & backend) by running the following commands :-**
